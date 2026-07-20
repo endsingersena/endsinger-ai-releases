@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "endsingersena",
+    "Name": "Endsinger AI",
+    "Description": "Build an item-level climb checklist and easy crafting plan. Endsinger AI tells you where to go and what to get, but never moves or controls your character. Open with /endsingerai.",
+    "InternalName": "EndsingerAI",
+    "AssemblyVersion": "0.2.1.0",
+    "TestingAssemblyVersion": null,
+    "RepoUrl": "https://github.com/endsingersena/testing",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Punchline": "Clear, manual guidance for gearing and crafting.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/endsingersena/endsinger-ai-releases/releases/download/v0.2.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/endsingersena/endsinger-ai-releases/releases/download/v0.2.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/endsingersena/endsinger-ai-releases/releases/download/v0.2.1.0/latest.zip",
+    "LastUpdate": "1784581609",
+    "Changelog": "Moves the install feed, release package, and guidance data to the public distribution repository so the source repository can remain private.",
+    "Tags": [
+      "gear",
+      "crafting",
+      "guide"
+    ]
+  }
+]
+

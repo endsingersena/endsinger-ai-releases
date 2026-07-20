@@ -7,5 +7,3 @@ Dalamud custom repository URL:
 ```text
 https://raw.githubusercontent.com/endsingersena/endsinger-ai-releases/main/repo.json
 ```
-
-Endsinger AI provides gear guidance, crafting preparation, current-job detection.

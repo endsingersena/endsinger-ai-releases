@@ -2,25 +2,23 @@
   {
     "Author": "endsingersena",
     "Name": "Endsinger AI",
-    "Description": "Build an item-level climb checklist and easy crafting plan. Endsinger AI tells you where to go and what to get, but never moves or controls your character. Open with /endsingerai.",
+    "Description": "A fresh start for Endsinger AI. Open with /endsingerai.",
     "InternalName": "EndsingerAI",
-    "AssemblyVersion": "0.4.0.0",
+    "AssemblyVersion": "0.5.0.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/endsingersena/Endsinger-AI",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "Punchline": "Clear, manual guidance for gearing and crafting.",
+    "Punchline": "A cute little idea taking shape.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/endsingersena/endsinger-ai-releases/releases/download/v0.4.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/endsingersena/endsinger-ai-releases/releases/download/v0.4.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/endsingersena/endsinger-ai-releases/releases/download/v0.4.0.0/latest.zip",
-    "LastUpdate": "1784583034",
-    "Changelog": "Begins the original Coach Systems overhaul with live job, combat, duty, territory, target, and target-cast detection; saved rotation priorities; duty/boss context; and manual route guidance.",
+    "DownloadLinkInstall": "https://github.com/endsingersena/endsinger-ai-releases/releases/download/v0.5.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/endsingersena/endsinger-ai-releases/releases/download/v0.5.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/endsingersena/endsinger-ai-releases/releases/download/v0.5.0.0/latest.zip",
+    "LastUpdate": "1784592000",
+    "Changelog": "Returns Endsinger AI to a clean drawing board while keeping the cute theme and saved UI scaling.",
     "Tags": [
-      "gear",
-      "crafting",
-      "guide"
+      "utility"
     ]
   }
 ]

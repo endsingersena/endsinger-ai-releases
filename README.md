@@ -8,4 +8,4 @@ Dalamud custom repository URL:
 https://raw.githubusercontent.com/endsingersena/endsinger-ai-releases/main/repo.json
 ```
 
-Endsinger AI provides gear guidance, crafting preparation, current-job detection, read-only inventory material counts, saved UI scaling, and a cute companion dashboard that opens the original UIs of detected plugins. It does not execute movement, combat, crafting actions, or simulated input.
+Endsinger AI provides gear guidance, crafting preparation, current-job detection.
